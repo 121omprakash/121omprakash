@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @121omprakash
+- 👋 Hi, I’m Omprakash
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI programming with Python from udacity
 - 📫 How to reach me Linkedin:https://www.linkedin.com/in/omprakash121/ Gmail: 121deathboy@gmail.com
