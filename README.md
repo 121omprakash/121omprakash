@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
-<h3 align="center">A pssionate about data science</h3>
+<h3 align="center">A passionate about data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=121omprakash&label=Profile%20views&color=0e75b6&style=flat" alt="121omprakash" /> </p>
 
